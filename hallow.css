@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(beanbase1.gif);
+    background: url(hallowbase.gif);
     height: 700px;
     width: 1200px;
     /*    margin-left: -403px;
@@ -22,7 +22,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(triggerbean.png);
+    background: url(hallowtriggers.png);
     opacity: 0;
 }
 
@@ -38,7 +38,7 @@
 .ds4 .bumper {
     width: 200px;
     height: 45px;
-    background: url(bumperbean.png) no-repeat;
+    background: url(hallowbumper.png) no-repeat;
     opacity: 0;
 }
 
@@ -110,7 +110,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(select.png);
+    background: url(hallowselect.png);
     width: 26px;
     height: 43px;
     opacity: 0;
@@ -156,7 +156,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(beanbuttons.png);
+    background: url(hallowbuttons.png);
 }
 
 .ds4 .button.pressed {
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(beanstick.png);
+    background: url(hallowsticks.png);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(beandpad3.png);
+    background: url(hallowdpad.png);
     position: absolute;
 }
 
@@ -279,7 +279,7 @@ background-position: 0 -70px;
 /*END PS4 Controller Styling*/
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(start.png);
+    background-image: url(hallowstart.png);
     width: 26px;
     height: 43px;
 }
